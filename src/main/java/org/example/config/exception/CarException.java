@@ -1,4 +1,4 @@
-package org.example.config;
+package org.example.config.exception;
 
 public class CarException extends Exception {
     private Integer status;

@@ -1,6 +1,6 @@
 package org.example.controller;
 
-import org.example.config.CarException;
+import org.example.config.exception.CarException;
 import org.example.model.Car;
 import org.example.model.dto.CarDTO;
 import org.example.model.dto.UpdateCarDTO;

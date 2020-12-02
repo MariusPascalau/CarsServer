@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.config.CarException;
+import org.example.config.exception.CarException;
 import org.example.model.Brand;
 import org.example.model.Car;
 import org.example.model.dto.CarDTO;
